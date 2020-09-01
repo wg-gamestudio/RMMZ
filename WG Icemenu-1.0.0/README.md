@@ -5,3 +5,5 @@
 *Read the plugin's help section to set it up correctly or go to the Centro RPG Maker forum for more information (Pt-Br):* https://centrorpg.com/index.php?topic=24729
 
 **YOU CANNOT MODIFY THIS SCRIPT AND DISTRIBUTE A NEW SCRIPT AS YOURS WITHOUT QUOTE THE ORIGINAL CREATOR**
+
+![presentation](https://i.imgur.com/zqvaHsq.png)
